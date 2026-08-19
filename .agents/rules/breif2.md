@@ -19,6 +19,7 @@ Do not:
 - sort requests unless explicitly required
 - introduce rolling windows
 - assume denied requests consume no quota
+- do any commit on source control without my accept 
 
 Pay particular attention to R1, R2, R4, and R8.
 
