@@ -1,0 +1,10 @@
+{
+  "tiers": {
+    "free": { "requests_per_minute": 5, "tokens_per_hour": 10000 },
+    "pro": { "requests_per_minute": 60, "tokens_per_hour": 500000 }
+  },
+  "keys": {
+    "k1": "free",
+    "k2": "pro"
+  }
+}

@@ -1,0 +1,7 @@
+{"id": "r001", "decision": "allow", "reason": null, "retry_after_seconds": null}
+{"id": "r002", "decision": "allow", "reason": null, "retry_after_seconds": null}
+{"id": "r003", "decision": "allow", "reason": null, "retry_after_seconds": null}
+{"id": "r004", "decision": "allow", "reason": null, "retry_after_seconds": null}
+{"id": "r005", "decision": "allow", "reason": null, "retry_after_seconds": null}
+{"id": "r006", "decision": "deny", "reason": "both", "retry_after_seconds": 3550}
+{"id": "r007", "decision": "deny", "reason": "both", "retry_after_seconds": 3545}

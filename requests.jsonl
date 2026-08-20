@@ -1,0 +1,7 @@
+{"id": "r001", "key": "k1", "timestamp": "2026-09-01T10:00:00.000Z", "tokens": 1500}
+{"id": "r002", "key": "k1", "timestamp": "2026-09-01T10:00:10.000Z", "tokens": 2000}
+{"id": "r003", "key": "k1", "timestamp": "2026-09-01T10:00:20.000Z", "tokens": 3000}
+{"id": "r004", "key": "k1", "timestamp": "2026-09-01T10:00:30.000Z", "tokens": 2500}
+{"id": "r005", "key": "k1", "timestamp": "2026-09-01T10:00:40.000Z", "tokens": 1000}
+{"id": "r006", "key": "k1", "timestamp": "2026-09-01T10:00:50.000Z", "tokens": 500}
+{"id": "r007", "key": "k1", "timestamp": "2026-09-01T10:00:55.000Z", "tokens": 500}
