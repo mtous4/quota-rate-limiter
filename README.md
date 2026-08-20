@@ -116,6 +116,15 @@ quota-rate-limiter/
 ├── README.md                # Clean-clone execution guide
 ├── limits.json              # Sample limits configuration
 ├── requests.jsonl           # Sample requests log
+├── image.png                # Verification screenshot
+├── image-1.png              # Execution output screenshot
+├── image-2.png              # Screenshot
+├── image-3.png              # Screenshot
+├── image-4.png              # Screenshot
+├── image-5.png              # Screenshot
+├── image-6.png              # Screenshot
+├── image-7.png              # Screenshot
+├── image-8.png              # Screenshot
 ├── src/                     # Deliverable 3: Replay engine implementation
 │   ├── __init__.py
 │   ├── cli.py               # Single command CLI entrypoint
