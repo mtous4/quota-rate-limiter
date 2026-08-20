@@ -111,9 +111,15 @@ python -m unittest discover -s tests -v
 
 ```text
 quota-rate-limiter/
+├── .gitignore
+├── AI_LOG.md                # AI interaction log & audit trail
 ├── BRIEF.md                 # Complete problem specification
 ├── EVIDENCE.md              # Test verification evidence & reproduction claims
-├── README.md                # Clean-clone execution guide
+├── QUESTIONS.md             # Assumptions and answered project questions
+├── README.md                # Clean-clone execution guide & architecture documentation
+├── RUBRIC_final_projects.md # Project evaluation rubric & criteria
+├── UNDERSTANDING.md         # Specification understanding & requirement breakdown
+├── decisions.jsonl          # Generated decision output
 ├── limits.json              # Sample limits configuration
 ├── requests.jsonl           # Sample requests log
 ├── image.png                # Verification screenshot
